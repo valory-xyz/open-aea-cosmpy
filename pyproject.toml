@@ -5,7 +5,7 @@ markers = [
 ]
 
 [tool.poetry]
-name = "cosmpy"
+name = "open-aea-cosmpy"
 version = "0.6.3"
 description = "A library for interacting with the cosmos networks"
 authors = ["Fetch.AI Limited"]
