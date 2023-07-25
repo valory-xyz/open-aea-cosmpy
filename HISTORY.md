@@ -1,5 +1,10 @@
 # Release History
 
+## 0.6.3
+
+* deps updated: grpcio==1.47.5 to work on mac m1
+* other relateed deps fixed
+
 ## 0.6.2
 
 * feat: add migration for wasm contracts in aerial
