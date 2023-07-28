@@ -32,11 +32,12 @@ bech32 = "*"
 requests = "*"
 protobuf = ">=4.21.6,<5"
 grpcio = "==1.53.0"
-bip-utils = "*"
 blspy = "*"
 google-api-python-client = "*"
 jsonschema = ">=3.2.0,<5"
 coincurve = "==18.0.0"
+open-aea-bip-utils = "==2.7.2"
+
 
 [tool.poetry.group.dev.dependencies]
 check-manifest = "*"
