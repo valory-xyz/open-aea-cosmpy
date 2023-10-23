@@ -36,7 +36,7 @@ blspy = "*"
 google-api-python-client = "*"
 jsonschema = ">=3.2.0,<5"
 coincurve = "==18.0.0"
-open-aea-bip-utils = "==2.7.2"
+bip-utils = "==2.8.0"
 
 
 [tool.poetry.group.dev.dependencies]
